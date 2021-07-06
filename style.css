@@ -16,9 +16,23 @@ h1{font-size: 50px;color: gray;}
               padding-left: 50px;
 padding-top: 40px;
 margin-bottom: 100px;}
-.width-change img{width:55%;}
+.width-change img{width:60%;}
 .text-aling{text-align: center;}
 h2{color: gray;
 font-size: 30px;}
+.paragrap-color{color: gray;}
 .bg-img{background-image: url(images/7.png);
 background-repeat: no-repeat;}
+.img-width1 img{width: 18%;}
+.margin{margin-left: 300px
+    ;border-radius: 10px ;
+    
+}
+#box-shadow{box-shadow:10px 5px 20px gray; 
+width:30%;
+border-radius: 40px;
+margin-left: 20px;
+}
+.aling-footer{text-align: center;background-color: black;}
+.red-color{color:red;}
+h5{color: white;}
