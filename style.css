@@ -1,0 +1,19 @@
+body{font-family: 'Poppins', sans-serif;
+margin: 0;}
+h1{font-size: 50px;color: gray;}
+.paragraph-color{color: gray;
+   
+}
+.flex{display:flex;}
+.orange-color{color: orange;}
+.link-button{text-decoration: none;
+    padding:10px 20px;
+    background-color:orange;
+    border-radius:20px ;
+    background-image:linear-gradient(red, orange);
+    color:white }
+.width-change{width: 50%;
+              padding-left: 50px;
+padding-top: 40px;}
+.width-change img{width:80%;}
+                          .
